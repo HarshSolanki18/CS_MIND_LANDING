@@ -1,7 +1,7 @@
 #footer {
-    color: #fff;
+    color: #4f5665;
     font-size: 14px;
-    background: linear-gradient(45deg, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0.9) 100%);
+    background:  rgb(248,248,248);
     background-size: cover;
     
   }
@@ -21,6 +21,7 @@
     padding: 2px 0 2px 0;
     line-height: 1;
     font-weight: 500;
+    color:#0b132a;
     text-transform: uppercase;
   }
   
@@ -29,6 +30,7 @@
     line-height: 24px;
     margin-bottom: 0;
     font-family: "Poppins", sans-serif;
+    
   }
   
   #footer .footer-top h4 {
@@ -36,6 +38,7 @@
     font-weight: bold;
     position: relative;
     padding-bottom: 12px;
+    color:#0b132a;
   }
   
   #footer .footer-top .footer-links {
@@ -50,7 +53,7 @@
   
   #footer .footer-top .footer-links ul i {
     padding-right: 2px;
-    color: #fff;
+    color: #4f5665;
     font-size: 18px;
     line-height: 1;
   }
@@ -66,7 +69,7 @@
   }
   
   #footer .footer-top .footer-links ul a {
-    color: rgba(255, 255, 255, 0.8);
+    color:#4f5665;
     transition: 0.3s;
     display: inline-block;
     line-height: 1;
@@ -74,22 +77,22 @@
   
   #footer .footer-top .footer-links ul a:hover {
     text-decoration: underline;
-    color: #fff;
+    color: #4f5665;
   }
   
   
   #footer .copyright-wrap {
-    border-top: 1px solid #ffffff;
+    border-top: 1px solid #4f5665;
   }
   
   #footer .credits {
     padding-top: 5px;
     font-size: 13px;
-    color: #fff;
+    color: #4f5665;
   }
   
   #footer .credits a {
-    color: #fff;
+    color: #4f5665;
   }
   
   #footer .social-links a {

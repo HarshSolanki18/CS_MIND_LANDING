@@ -106,7 +106,7 @@ const Footer = () => {
                 <i class="bx bxl-instagram"></i>
               </a>
               <a href="" class="linkedin">
-                <i class="bx bxl-linkedin"></i>
+                <i class="bx bxl-linkedin" ></i>
               </a>
             </div>
           </div>
