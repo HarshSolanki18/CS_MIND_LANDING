@@ -10,15 +10,15 @@ const Innovation = () => {
      
         <div class="row">
           <div
-            class="col-lg-6 order-1 order-lg-2"
+            class="col-lg-6 order-1 order-lg-1"
             data-aos="zoom-in"
             data-aos-delay="150"
-          ><Fade right>
+          ><Fade left>
             <img src="media/InnovationImg.png" class="img-fluid" alt="" />
             </Fade>
           </div>
           <div
-            class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content"
+            class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-2 content"
             data-aos="fade-right"
           >
             <h3>Innovations at CS MIND</h3>
