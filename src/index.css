@@ -65,7 +65,7 @@ html {
   }
   
   .cta-info {
-    margin-right: 0px;
+    margin-right: 5px;
   }
   
   .cta-text-header {
@@ -87,6 +87,7 @@ html {
   
   .cta-img-ctr {
     min-width: 450px;
+    max-width: 550px;
   }
   
   .cta-btn {

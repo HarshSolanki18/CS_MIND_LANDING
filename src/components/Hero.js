@@ -1,6 +1,8 @@
 import React from "react";
 import HomeFeatureSection from "./HomeFeatureSection";
 import Stats from "./Stats";
+import Pulse from 'react-reveal/Pulse';
+import Fade from 'react-reveal/Fade';
 
 const Hero = () => {
   return (
@@ -12,7 +14,7 @@ const Hero = () => {
             <div class="cta-info">
               <div class="cta-text">
                 <h1 class="cta-text-header">
-                  Venturing Technology Innovations for <span>Make in India.</span>
+                  Venturing Technology Innovations for  <span> <Pulse>Make in India.</Pulse></span>
                 </h1>
                 <p class="cta-text-desc sub-desc">
                   Provide a network for all your needs with ease and fun using
@@ -25,8 +27,9 @@ const Hero = () => {
               </div>
             </div>
             <div class="cta-img-ctr">
-              <img src="SVG/fixheroideaR.svg"  alt="hero imah" />
-             
+              <Fade right>
+              <img src="SVG/meeting.svg"  alt="hero imah" />
+             </Fade>
             </div>
             
             
