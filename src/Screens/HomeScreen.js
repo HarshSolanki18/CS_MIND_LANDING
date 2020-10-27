@@ -7,6 +7,7 @@ import Brands from "../components/Brands";
 import Innovation from "../components/Innovation";
 import AIM from "../components/AIM";
 import CCC from "../components/CCC";
+import AboutHome from "../components/AboutHome";
 
 
 const HomeScreen = () => {
@@ -14,7 +15,7 @@ const HomeScreen = () => {
     <>
       <Header />
       <Hero/>
-      
+      <AboutHome/>
       <Innovation/>
       <AIM/>
       <CCC/>
