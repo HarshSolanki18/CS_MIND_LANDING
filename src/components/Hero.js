@@ -23,7 +23,7 @@ const Hero = () => {
                 </p>
               </div>
               <div class="cta-btn-ctr">
-                <button class="cta-btn btn-dark">Get Started</button>
+               <a href="#innovation"> <button class="cta-btn btn-dark">Get Started</button></a>
               </div>
             </div>
             <div class="cta-img-ctr">

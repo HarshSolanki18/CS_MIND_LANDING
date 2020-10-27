@@ -4,7 +4,7 @@ import Fade from 'react-reveal/Fade';
 const Innovation = () => {
   return (
     
-    <section id="about" class="about">
+    <section id="about" id="innovation" class="about">
       
       <div class="container">
      
