@@ -17,3 +17,7 @@ In the project directory, you can run:
   <li>Testimonials</li>
   <li>About</li>
 </ul>  
+
+### website link:  https://cs-mind-mockup.vercel.app/
+
+
